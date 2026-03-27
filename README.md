@@ -1,5 +1,10 @@
 # Hi, I'm Levi chukwumeziri Anozie 👋
-### Cloud & DevSecOps Engineer | Building Secure, Scalable Infrastructure
+
+## 🎯 Why a Product Owner builds DevOps Pipelines?
+I don't just build pipelines; I build **Value Streams**. I believe that:
+1. **Automation = Velocity:** Faster pipelines mean shorter Sprint cycles.
+2. **Security = Trust:** DevSecOps isn't just a checkbox; it's a product feature that protects the customer.
+3. **Observability = Reliability:** Monitoring is the feedback loop that drives the next Product Backlog.
 
 I specialize in automating the "Boring Stuff" so that software can be deployed faster, safer, and at a massive scale. My portfolio is built on a "Five-Pillar" strategy for modern Cloud Engineering.
 
